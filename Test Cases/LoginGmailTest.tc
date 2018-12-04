@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginGmailTest</name>
+   <tag>LoginGmail</tag>
+   <comment></comment>
+   <testCaseGuid>581b755e-5c89-46ca-8ca5-e85a82786428</testCaseGuid>
+</TestCaseEntity>

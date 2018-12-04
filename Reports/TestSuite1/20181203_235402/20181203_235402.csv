@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 70.0.3538.110,,2018-12-03 23:54:06,2018-12-03 23:54:20,14.019s,FAILED
+,,,,,,
+Test Cases/LoginGmailTest,Chrome 70.0.3538.110,,2018-12-03 23:54:06,2018-12-03 23:54:19,12.898s,FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-03 23:54:07,2018-12-03 23:54:13,5.983s,PASSED
+"navigateToUrl(""https://www.katalon.com/"")",Chrome 70.0.3538.110,,2018-12-03 23:54:13,2018-12-03 23:54:19,6.073s,PASSED
+"delay(0, STOP_ON_FAILURE)",Chrome 70.0.3538.110,,2018-12-03 23:54:19,2018-12-03 23:54:19,0.037s,PASSED
+"click(findTestObject(""Page_Katalon Studio Simplify API We/a_Tutorials""))",Chrome 70.0.3538.110,,2018-12-03 23:54:19,2018-12-03 23:54:19,0.457s,FAILED
